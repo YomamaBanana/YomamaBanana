@@ -1,4 +1,48 @@
-### Hi there 👋
+<h2 align="center">Adrian Tam</h2>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/kayeungadrian-tam/" target="_blank">
+<img src=https://img.shields.io/badge/a-LinkedIn-informational alt=linkedin style="padding-right: 10px;" height="30"/>
+</a>
+
+<a href="https://www.adrian-tam.com/" target="_blank" style="padding-right: 10px;">
+<img src=https://img.shields.io/badge/a-Portfolio-yellowgreen alt=linkedin style="padding-right: 10px;" height="30" />
+</a>
+
+
+</div>
+
+
+<img src="https://gpvc.arturio.dev/YomamaBanana" alt="Profile views" align='right'/> <a href="https://github.com/YomamaBanana/YomamaBanana/"> </a> 
+
+<hr>
+<img align="left" src="https://user-images.githubusercontent.com/51869912/181268655-e1126ad5-379b-40a6-adea-f83d260e716b.png" alt="Adrian Tam" width="350" />
+
+
+
+
+```
+✨ YomamaBanana@github ✨
+-------------------------
+Motivated all-around engineer with a strong background in 
+delivering machine learning solutions to solve real-world 
+problems. Capable of translating business requirements in-
+to ai-driven solutions. Eager to apply, combine and modify
+existing technologies to get work done.
+```
+
+-----
+
+
+<br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YomamaBanana&theme=gruvbox&include_all_commits=true&count_private=true&show_icons=true&line_height=30" alt="YomamaBanana Github Stats">
+
+	 
+
+<br />
+
+
 
 <!--
 **YomamaBanana/YomamaBanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
