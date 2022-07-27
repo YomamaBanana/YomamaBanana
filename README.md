@@ -16,10 +16,10 @@
 <img src="https://gpvc.arturio.dev/YomamaBanana" alt="Profile views" align='right'/> <a href="https://github.com/YomamaBanana/YomamaBanana/"> </a> 
 
 <hr>
-<img align="left" src="https://user-images.githubusercontent.com/51869912/181268655-e1126ad5-379b-40a6-adea-f83d260e716b.png" alt="Adrian Tam" width="350" />
 
 
 
+<div align="center"> 
 
 ```
 ✨ YomamaBanana@github ✨
@@ -32,13 +32,15 @@ existing technologies to get work done.
 ```
 
 -----
-
+<div>
 
 <br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YomamaBanana&theme=gruvbox&include_all_commits=true&count_private=true&show_icons=true&line_height=30" alt="YomamaBanana Github Stats">
-
-	 
+<a href="https://github.com/YomamaBanana/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YomamaBanana&theme=gruvbox&include_all_commits=true&count_private=true&show_icons=true&line_height=30" alt="YomamaBanana Github Stats" width="400">
+</a>
+	 <a href="https://github.com/YomamaBanana/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YomamaBanana&theme=gruvbox&layout=compact&langs_count=10" width="320"/>
+</a>
 
 <br />
 
