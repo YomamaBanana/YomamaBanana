@@ -35,11 +35,11 @@ existing technologies to get work done.
 <div>
 
 <br />
-<a href="https://github.com/YomamaBanana/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YomamaBanana&theme=gruvbox&include_all_commits=true&count_private=true&show_icons=true&line_height=30" alt="YomamaBanana Github Stats" width="400">
+<a href="https://github.com/kayeungadrian-tam/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kayeungadrian-tam&theme=gruvbox&include_all_commits=true&count_private=true&show_icons=true&line_height=30" alt="kayeungadrian-tam Github Stats" width="400">
 </a>
-	 <a href="https://github.com/YomamaBanana/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YomamaBanana&theme=gruvbox&layout=compact&langs_count=10" width="320"/>
+	 <a href="https://github.com/kayeungadrian-tam/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayeungadrian-tam&theme=gruvbox&layout=compact&langs_count=10" width="320"/>
 </a>
 
 <br />
@@ -47,7 +47,7 @@ existing technologies to get work done.
 
 
 <!--
-**YomamaBanana/YomamaBanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kayeungadrian-tam/kayeungadrian-tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
